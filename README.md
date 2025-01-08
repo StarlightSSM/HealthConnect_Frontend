@@ -56,6 +56,9 @@ https://www.canva.com/design/DAGMkOO7ivo/18dDIfXf3oW7VAjJowhB1w/edit?utm_content
 
 <img src="1.png"/><br>
 
+# ERD 다이어그램
+<img src="22.png"/>
+
 # 실행하기 전 앞서서 해야할 것
 ## npm install (라이브러리 설치)
 ### 일부 필요한 리액트 라이브러리
