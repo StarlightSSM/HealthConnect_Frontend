@@ -1,4 +1,16 @@
-# 프로젝트 소개
+# 프로젝트 주제
+건강 관리 커뮤니티 사이트
+
+## 팀명 
+HealthConnect
+
+## 팀원
+김동하(조장)[https://github.com/kdh0825kr] "조장 / 엔지니어 / 기획"
+신수민[https://github.com/StarlightSSM] "엔지니어 / 기획 / 디자인"
+안예빈[https://github.com/mewmaze] "엔지니어 / 기획 / 디자인 / 깃허브 관리"
+
+# 프로젝트 목적
+사용자들에게 더 쉽게 정보를 접할 수 있도록 하고, 사용자들간 정보를 공유하며 커뮤니티를 통해 친목, 경쟁 등 힘든 운동을 더 의미있고 재미있게 접근, 지속할 수 있도록 함
 
 ## 덤벨 이코노미(Dumbbel-Economy)
  아령(Dumbbel)과 경제(Economy)의 합성어,
