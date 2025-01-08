@@ -19,8 +19,11 @@ HealthConnect
 
 # 프로젝트 관리 방안
 ♥ Zoom, Kakaotalk, Slack - 프로젝트 일정, 개인 일정 관리
+
 ♥ Github - 소스코드 공유 
+
 ♥ Google Docs, Canva - 프로젝트 문서화, 프로젝트 발표자료 작성, 워크플로우, 간트 차트 작성, 실시간 팀원 간 스케쥴 관리
+<img src="3.png"/>
 
 ## 덤벨 이코노미(Dumbbel-Economy)
  아령(Dumbbel)과 경제(Economy)의 합성어,
