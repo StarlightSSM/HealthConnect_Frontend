@@ -1,6 +1,9 @@
 # 프로젝트 주제
 건강 관리 커뮤니티 사이트
 
+# 시연 영상
+https://drive.google.com/file/d/16PWya2boKpliq3SzdpJzxWdUF85-F85M/view?usp=sharing
+
 ## 팀명 
 HealthConnect
 
@@ -65,8 +68,6 @@ https://www.canva.com/design/DAGMkOO7ivo/18dDIfXf3oW7VAjJowhB1w/edit?utm_content
 <img src="24.png"/> <br>
 
 <img src="25.png"/> <br>
-
-<img src="26.png"/> <br>
 
 # 실행하기 전 앞서서 해야할 것
 ## npm install (라이브러리 설치)
