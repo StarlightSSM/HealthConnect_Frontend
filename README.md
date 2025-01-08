@@ -26,6 +26,19 @@ HealthConnect
 
 <img src="3.png"/> 
 
+# 개발환경
+♥ React, html, css, js - 프론트엔드 개발
+
+♥ figma - ui, ux 제작 및 화면 구성, 디자인
+
+♥ Mui - 하드 코딩 방지를 위한 리액트 컴포넌트 ui 라이브러리 이용
+
+♥ mysql, node.js, express, npm(모듈 설치 명령어) - 데이터베이스 설계, 연동, 서버 구축 개발 및 연동
+
+♥ mysql workbench - 데이터베이스 테이블, 컬럼 상세 설계
+
+<img src="21.png"/>
+
 ## 덤벨 이코노미(Dumbbel-Economy)
  아령(Dumbbel)과 경제(Economy)의 합성어,
  운동, 다이어트 등 건강과 체력관리에 대한 소비가 증가하면서 관련 시장이 급격히 성장하는 경제 현상을 의미한다.
