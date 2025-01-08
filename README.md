@@ -5,13 +5,13 @@
 HealthConnect
 
 ## 팀원
-김동하(조장)[https://github.com/kdh0825kr] <br>
+★ 김동하(조장)[https://github.com/kdh0825kr] <br>
 "조장 / 엔지니어 / 기획" <br>
 
-신수민(=본인)[https://github.com/StarlightSSM] <br>
+★ 신수민(=본인)[https://github.com/StarlightSSM] <br>
 "엔지니어 / 기획 / 디자인" <br>
 
-안예빈[https://github.com/mewmaze] <br>
+★ 안예빈[https://github.com/mewmaze] <br>
 "엔지니어 / 기획 / 디자인 / 깃허브 관리" <br>
 
 # 프로젝트 목적
