@@ -3,6 +3,7 @@
 # 발표자료 링크
 https://www.canva.com/design/DAGMkOO7ivo/18dDIfXf3oW7VAjJowhB1w/edit?utm_content=DAGMkOO7ivo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+<img src="1.png"/>
 # 실행하기 전 앞서서 해야할 것
 ## npm install (라이브러리 설치)
 ### 일부 필요한 리액트 라이브러리
