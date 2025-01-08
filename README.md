@@ -1,9 +1,17 @@
 # 프로젝트 소개
 
+## 덤벨 이코노미(Dumbbel-Economy)
+ 아령(Dumbbel)과 경제(Economy)의 합성어,
+ 운동, 다이어트 등 건강과 체력관리에 대한 소비가 증가하면서 관련 시장이 급격히 성장하는 경제 현상을 의미한다.
+ 소비의 주체인 MZ 세대(밀레니얼)에 의해 각광받게 되었다.
+ 홈트레이닝과 유사한 의미를 가지며, 최근 국내에서 주 52시간 근무제가 도입되면서 워라벨(삶과 일의 균형)의 확산으로 시장규모가 확대되었다.
+
+
 # 발표자료 링크
 https://www.canva.com/design/DAGMkOO7ivo/18dDIfXf3oW7VAjJowhB1w/edit?utm_content=DAGMkOO7ivo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-<img src="1.png"/>
+<img src="1.png"/><br>
+
 # 실행하기 전 앞서서 해야할 것
 ## npm install (라이브러리 설치)
 ### 일부 필요한 리액트 라이브러리
